@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Tahir</h1>
 <h3 align="center">Passionate Computer Scientist with a strong background in Python programming and a diverse range of technical skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chusman1&label=Profile%20views&color=0e75b6&style=flat" alt="chusman1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chusman1" alt="chusman1" /></a> </p>
 
